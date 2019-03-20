@@ -9,6 +9,7 @@ body {
 .header {
       background-color: darkgrey;
       color: coral;
+      font-size: 3.0em;
       text-align: center;
       padding: 25px;
   }
