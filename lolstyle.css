@@ -1,6 +1,7 @@
 body {
-      background-color: #f0f0f0;
-      color: darkslategrey;
+      background-color: lightgrey;
+      color: navy;
+      font-family: "Arial", sans-serif;
       font-size: 1.1em;
   }
 h1 {
